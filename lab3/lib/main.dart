@@ -76,7 +76,7 @@ class _MyHomePageState extends State<MyHomePage> {
               padding: EdgeInsets.all(20),
               child: RichText(
                 text: const TextSpan(
-                  text: "Ayush",
+                  text: "Raunit",
                   style: TextStyle(color: Colors.yellow, fontSize: 50),
                   children: [
                     TextSpan(
