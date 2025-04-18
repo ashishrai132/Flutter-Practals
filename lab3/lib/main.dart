@@ -80,7 +80,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   style: TextStyle(color: Colors.yellow, fontSize: 50),
                   children: [
                     TextSpan(
-                      text: ' KUMAR',
+                      text: 'Ashish KUMAR',
                       style: TextStyle(
                         fontWeight: FontWeight.bold,
                         color: Colors.black,
